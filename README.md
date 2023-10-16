@@ -621,6 +621,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 - [Riseup](https://riseup.net/en/about-us) - Online communication tools for people and groups working on liberatory social change.
 - [Mailfence](https://mailfence.com) - Secure and private email.
 - [Skiff](https://skiff.com) - Privacy-first, end-to-end encrypted, open-source email.
+- [DuckDuckGo Forwaring Email](https://duckduckgo.com/email/settings/account) - Emails sent to your personal or private Duck Addresses will arrive in your existing inbox with trackers removed.
 
 ### Self-Hosted
 - [Docker mail server](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
@@ -802,6 +803,7 @@ Many websites require phone number verification. These services offer a way to r
 
 ### Email verification required, accepting crypto
 - [SmsPVA](https://smspva.com/) - SmsPVA is a service providing a phone number you can send any SMS on and get a text of it. (Based in France)
+- [smsBower](https://smsbower.com/) - SMSBOWER is platform providing a temp or virtual numbers for SMS verifications. Mostly physical SIMs. 
 
 ## Operating Systems
 ### Android
@@ -1046,6 +1048,7 @@ This section is dedicated to some tools that may help users analyze the privacy 
 <img width="16" src="misc/check.png"> </img> **Alternatives:**
 - [Plume](https://github.com/Plume-org/Plume) 🧩 - Federated blogging application, thanks to ActivityPub.
 - [WriteFreely](https://writefreely.org/) 🧩 - An open source platform for building a writing space on the web.
+- [Mirror](https://mirror.xyz/) - The home for Web3 publishing
 
 <img width="16" src="misc/check.png"> </img> **Alternative Medium frontends:**
 - [Scribe](https://git.sr.ht/~edwardloveall/scribe/) - Medium alternative forntend inspired by Invidious.
@@ -1104,6 +1107,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 - <img width="16" src="misc/android.png"> [LibreTube](https://github.com/Libre-tube/LibreTube) - An alternative frontend for YouTube, for Android using Piped.
 - [Yattee](https://github.com/yattee/yattee) - Alternative YouTube frontend for iOS, tvOS and macOS built with Invidious and Piped.
 - <img width="16" src="misc/android.png"> [Clipious](https://github.com/lamarios/clipious) Invidious client for android
+- [uYouPlusExtra](https://github.com/arichorn/uYouPlusExtra) - Alternative iOS app (sideload). No ads, SponsorBlock and other features. 
 
 ### TikTok
 
@@ -1318,6 +1322,7 @@ Here are some open source and truly private (no personal data and/or credit card
 - [Mullvad VPN](https://mullvad.net)
 - [Proton VPN](https://protonvpn.com)
 - [SPN](https://safing.io/)
+- [FCRKN](https://frkn.org/)
 
 ## Web Browser
 
@@ -1345,6 +1350,7 @@ Here are some open source and truly private (no personal data and/or credit card
   - [LibreWolf](https://librewolf.net/) - Privacy-focused Firefox fork.
 - [Tor Browser](https://www.torproject.org/)
 - [Mullvad Browser](https://mullvad.net/en/browser/) - Browser with the privacy and security implications of the Tor Browser, without the use of the Tor network.
+- [DuckDuckGo](https://duckduckgo.com/mac) - Well-known search engine now has a beta version of browser for Mac users
 
 > It may be interesting to learn what you can do to harden your browser. You can follow this [Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html#appendix-v1-hardening-your-browsers) section to do it. Please, if you don't understand what you are doing, don't do it as you may be causing more harm than good to your privacy.
 
@@ -1357,6 +1363,7 @@ Please read about what the addon does before installing. If you don't understand
 	- [Read the extension docs](https://github.com/gorhill/uBlock/wiki/Blocking-mode) and pick one of the recommended modes to increase your privacy.
 	- Go to settings > filters list > annoyances, turn on easylist-cookies. This will avoid you the annoying Cookie popups.
 - [LibRedirect](https://github.com/libredirect/libredirect) - A simple web extension that redirects Twitter, YouTube, Google Maps and many more requests to privacy friendly alternatives. Former Privacy Redirect is no longer maintained, LibRedirect is a maintained fork.
+- [Censor Tracker](https://censortracker.org/en.html) - Free extension for Chrome/FireFox, mainly for bypassing blocks
 
 #### Useful Tools
 - [Single File](https://github.com/gildas-lormeau/SingleFile) - Save a faithful copy of an entire web page in a single HTML file so you can use it offline.
